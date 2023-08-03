@@ -1,1 +1,1 @@
-# Guess-the-Number-consensus
+# Guess-the-number-game-using-HTML-CSS-JavaScript
